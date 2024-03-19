@@ -17,7 +17,7 @@
    "devDependencies": {
       "@testing-library/jest-dom": "^6.1.5",
       "@testing-library/react": "^14.1.2",
-      "@testing-library/user-event": "^14.5.1",
+      "@testing-library/user-event": "^14.5.2",
       "cli": "^1.0.1",
       "css-loader": "^6.8.1",
       "esbuild": "^0.20.1",

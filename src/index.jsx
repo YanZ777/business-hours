@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-import Playground from 'business-hours/Playground';
+import App from 'business-hours/App';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
    <React.StrictMode>
-      <Playground />
+      <App />
    </React.StrictMode>,
 );

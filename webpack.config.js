@@ -31,7 +31,7 @@ module.exports = (_env, argv) => {
       },
       plugins: [
          new HtmlWebpackPlugin({
-            title: 'Output Management',
+            title: 'Business Hours',
             template: path.resolve(__dirname, 'public', 'template.html'),
          }),
       ],

@@ -3,7 +3,7 @@ import React from 'react';
 
 import ButtonCounter from 'business-hours/ButtonCounter';
 
-function Playground() {
+function App() {
    /*
    const handleClick = () => {
       Axios.get('https://cat-fact.herokuapp.com/facts').then((response) => {
@@ -21,4 +21,4 @@ function Playground() {
    );
 }
 
-export default Playground;
+export default App;

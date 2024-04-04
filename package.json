@@ -22,7 +22,7 @@
       "css-loader": "^6.8.1",
       "esbuild": "^0.20.1",
       "esbuild-jest": "^0.5.0",
-      "esbuild-loader": "^4.0.3",
+      "esbuild-loader": "^4.1.0",
       "eslint": "^8.56.0",
       "eslint-config-airbnb": "^19.0.4",
       "eslint-config-node": "^4.1.0",

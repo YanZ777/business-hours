@@ -1,7 +1,7 @@
 // import Axios from 'axios';
 import React from 'react';
 
-import ButtonCounter from 'react-blank-project/ButtonCounter';
+import ButtonCounter from 'business-hours/ButtonCounter';
 
 function Playground() {
    /*

@@ -15,6 +15,6 @@ module.exports = {
       ],
    },
    moduleNameMapper: {
-      '^react-blank-project(.*)$': '<rootDir>/src$1',
+      '^business-hours(.*)$': '<rootDir>/src$1',
    },
 };

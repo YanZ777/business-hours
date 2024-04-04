@@ -1,6 +1,6 @@
-# react-blank-project
+# business-horus
 
-![GitHub Actions Build Status](https://github.com/yanz777/react-blank-project/actions/workflows/build.yml/badge.svg)
+![GitHub Actions Build Status](https://github.com/yanz777/business-hours/actions/workflows/build.yml/badge.svg)
 
 
 ## Getting Started

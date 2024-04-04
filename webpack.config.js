@@ -37,7 +37,7 @@ module.exports = (_env, argv) => {
       ],
       resolve: {
          alias: {
-            'react-blank-project': path.resolve(__dirname, 'src/'),
+            'business-hours': path.resolve(__dirname, 'src/'),
          },
          extensions: ['.js', '.jsx'],
       },

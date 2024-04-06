@@ -1,10 +1,10 @@
 import { render, screen } from '@testing-library/react';
 import * as React from 'react';
 
-import Playground from 'business-hours/Playground';
+import App from 'business-hours/App';
 
-test('renders Playground', () => {
+test('renders App', () => {
    const text = 'Hello World!';
-   render(<Playground />);
+   render(<App />);
    expect(screen.getByText(text)).toBeInTheDocument();
 });

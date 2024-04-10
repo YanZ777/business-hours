@@ -52,7 +52,7 @@
    },
    "dependencies": {
       "@reduxjs/toolkit": "^2.2.3",
-      "axios": "^1.6.2",
+      "axios": "^1.6.8",
       "lodash": "^4.17.21",
       "nan": "^2.18.0",
       "prop-types": "^15.8.1",

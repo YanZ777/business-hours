@@ -51,7 +51,7 @@
       "webpack-dev-server": "^5.0.4"
    },
    "dependencies": {
-      "@reduxjs/toolkit": "^2.0.1",
+      "@reduxjs/toolkit": "^2.2.3",
       "axios": "^1.6.2",
       "lodash": "^4.17.21",
       "nan": "^2.18.0",
